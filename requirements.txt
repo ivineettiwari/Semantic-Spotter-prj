@@ -1,0 +1,32 @@
+# OpenAI API client library for interacting with OpenAI models (GPT, embeddings, etc.)
+openai  
+
+# LangChain framework for building applications with LLMs (like OpenAI, Anthropic, Cohere)
+langchain  
+
+# ChromaDB: A fast, lightweight, and scalable vector database for embeddings storage and retrieval
+chromadb  
+
+# FAISS (Facebook AI Similarity Search) for efficient similarity search over large-scale vector datasets
+faiss-cpu  
+
+# PyPDF: Library for extracting text and metadata from PDFs
+pypdf  
+
+# TikToken: Tokenizer library for OpenAI models, used for efficient token counting
+tiktoken  
+
+# DocArray: A data structure optimized for AI-native applications, used for vector-based document representation
+docarray  
+
+# LangChain-Community: Additional community-built integrations for LangChain
+langchain-community  
+
+# Alternative PyPDF package (PyPDF vs pypdf, but they refer to the same package)
+PyPDF  
+
+# LangChain-OpenAI: OpenAI-specific integration package for LangChain
+langchain-openai  
+
+# Sentence Transformers: Pre-trained transformer models for sentence embeddings (useful for semantic search)
+sentence-transformers  
