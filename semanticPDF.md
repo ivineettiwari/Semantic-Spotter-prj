@@ -128,7 +128,7 @@ pip install -r requirements.txt
 ## **Setup Project**
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/semantic-spotter.git
+git clone https://github.com/ivineettiwari/Semantic-Spotter-prj.git
 cd semantic-spotter
 ```
 

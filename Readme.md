@@ -81,8 +81,8 @@ Follow these steps to install and run the project.
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/insurance-rag.git
-cd insurance-rag
+git clone https://github.com/ivineettiwari/Semantic-Spotter-prj.git
+cd Semantic-Spotter-prj
 ```
 
 ### **2. Install Dependencies**
