@@ -140,11 +140,6 @@ echo "your-openai-api-key" > API_Key.txt
 ### **3. Prepare Data**
 - Place insurance policy PDFs in the `Policy_Documents/` folder.
 
-### **4. Run the Project**
-```sh
-python main.py
-```
-
 ---
 
 ## **Usage**

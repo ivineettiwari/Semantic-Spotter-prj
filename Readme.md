@@ -116,8 +116,6 @@ python main.py
 ### **1. Running a Query**
 To test the system, run:
 ```python
-from main import rag_chain
-
 query = "What is the life insurance coverage for disability?"
 response = rag_chain.invoke(query)
 print(response)
